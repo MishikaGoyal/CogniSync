@@ -2,6 +2,7 @@
 
 **CogniSync** is a React-based application designed to support students with **Attention Deficit Hyperactivity Disorder (ADHD)**. The platform leverages **AI and ML techniques** to deliver a **personalized, adaptive, and inclusive learning experience**. It aims to enhance **focus, comprehension, and engagement** by combining intelligent task management, customizable UI, and accessibility-first learning tools.
 
+YouTube URL: https://youtu.be/qKBBWI98zSs
 ---
 
 ## 📌 Abstract
